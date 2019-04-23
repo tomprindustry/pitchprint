@@ -105,7 +105,7 @@
 	"custom_design": "Maak hier uw eigen ontwerp",
 	"uploaded_files": "Bestanden ge-upload",
 	"pdf_download": "Download PDF",
-	"design_saved": "Your design has been saved!",
+	"design_saved": "Je ontwerp is opgeslagen!",
 	"modules": {
 		"variable-data": {
 			"title": "Generate Variation designs",
@@ -149,5 +149,5 @@
 	},
 	"page_delete_alert": "This will delete the current design page.<br/>Do you wish to continue?",
 	"gallery_search": "Type to search gallery..",
-	"save_later": "Save for Later"
+	"save_later": "Bewaar voor later"
 }
